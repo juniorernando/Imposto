@@ -49,6 +49,7 @@ namespace Projeto119
 
             Console.WriteLine();
             Console.WriteLine("TOTAL TAXES: $ " + sum.ToString("F2", CultureInfo.InvariantCulture));
+      
         }
     }
 }
